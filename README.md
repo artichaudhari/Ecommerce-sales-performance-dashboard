@@ -120,6 +120,8 @@ Displays the relationship between discounts and profit margins.
 🎓 BE Graduate '25  | Aspiring Data Analyst
 📩 [chaudhariarti2146@gmail.com](mailto:chaudhariarti2146@gmail.com)
 🌐 [GitHub Profile](https://github.com/artichaudhari)
+💼 [Linkdin Profile](https://www.linkedin.com/in/arti-chaudhari-b998a82a9/)
+
 
 
 
