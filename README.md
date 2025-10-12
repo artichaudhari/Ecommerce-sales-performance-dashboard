@@ -117,8 +117,8 @@ Displays the relationship between discounts and profit margins.
 ## 📧 **Contact**
 
 👩‍💻 **Arti Chaudhari**
-🎓 Final Year B.E. Information Technology | Trinity Academy of Engineering, Pune
-📩 [artichaudhari01@gmail.com](mailto:artichaudhari01@gmail.com)
+🎓 BE Graduate '25  | Aspiring Data Analyst
+📩 [chaudhariarti2146@gmail.com](mailto:chaudhariarti2146@gmail.com)
 🌐 [GitHub Profile](https://github.com/artichaudhari)
 
 
