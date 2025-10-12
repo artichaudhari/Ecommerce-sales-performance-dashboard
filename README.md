@@ -1,19 +1,17 @@
-Of course, Arti 😊 Here’s your **complete and professional GitHub README** with the **Tech Stack written line-by-line** (not in table format) — formatted neatly for your repository 👇
 
----
 
 # 🛒 **Ecommerce Sales Performance Dashboard**
 
 An interactive **Power BI dashboard** designed to analyze and visualize **e-commerce sales performance** across various regions, products, and customer segments — providing key business insights using **data visualization, Power Query, and DAX**.
 
----
+
 
 ## 🧭 **Purpose**
 
 The **Ecommerce Sales Performance Dashboard** helps businesses understand sales trends, profits, customer behavior, and product performance — all in one interactive report.
 This tool is valuable for **sales analysts, business managers, and marketing teams** aiming to make data-driven decisions to increase revenue and profitability.
 
----
+
 
 ## 🧰 **Tech Stack**
 
@@ -24,7 +22,7 @@ This tool is valuable for **sales analysts, business managers, and marketing tea
 * **Excel / CSV Dataset** – Used as the raw data source for e-commerce sales records.
 * **File Formats** – `.pbix` for dashboard file, `.png` for preview image.
 
----
+
 
 ## 📊 **Data Source**
 
@@ -37,7 +35,7 @@ This tool is valuable for **sales analysts, business managers, and marketing tea
 * Sales, profit, quantity, and discount values
 * Date-based transaction records for time-series analysis
 
----
+
 
 ## ✨ **Features & Highlights**
 
