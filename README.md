@@ -52,7 +52,7 @@ To build an **interactive Power BI report** that:
 * Identifies **top customers and products** driving revenue.
 * Tracks **monthly and yearly sales growth** using time-series analysis.
 
----
+
 
 ## 🧩 **Walkthrough of Key Visuals**
 
@@ -74,7 +74,7 @@ Shows **month-wise and year-wise sales performance** for trend analysis.
 📊 **Profitability vs Discount (Scatter Plot):**
 Displays the relationship between discounts and profit margins.
 
----
+
 
 ## 💡 **Business Impact & Insights**
 
@@ -93,13 +93,13 @@ Displays the relationship between discounts and profit margins.
 * Applied **data modeling techniques** for accurate relationships between datasets.
 * Learned how to communicate **business insights effectively** through visuals.
 
----
+
 
 ## 🖼️ **Dashboard Preview**
 
 ![Dashboard Screenshot](https://github.com/artichaudhari/Ecommerce-sales-performance-dashboard/blob/main/Screenshot%202025-10-12%20224452.png)
 
----
+
 
 ## ⚙️ **How to Use**
 
@@ -112,7 +112,7 @@ Displays the relationship between discounts and profit margins.
 3. Refresh the data source to ensure latest updates.
 4. Use interactive filters, slicers, and visuals for detailed insights.
 
----
+
 
 ## 📧 **Contact**
 
@@ -121,7 +121,7 @@ Displays the relationship between discounts and profit margins.
 📩 [artichaudhari01@gmail.com](mailto:artichaudhari01@gmail.com)
 🌐 [GitHub Profile](https://github.com/artichaudhari)
 
----
+
 
 Would you like me to add a **“Dataset Description”** section (listing all column names like `Sales`, `Profit`, `Category`, `Region`, etc., with their meaning)?
 It would make your README even more professional and helpful for recruiters.
