@@ -125,5 +125,3 @@ Displays the relationship between discounts and profit margins.
 
 
 
-Would you like me to add a **“Dataset Description”** section (listing all column names like `Sales`, `Profit`, `Category`, `Region`, etc., with their meaning)?
-It would make your README even more professional and helpful for recruiters.
