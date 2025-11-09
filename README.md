@@ -122,7 +122,7 @@ Displays the relationship between discounts and profit margins.
 🌐 [GitHub Profile](https://github.com/artichaudhari)
 💼 [Linkdin Profile](https://www.linkedin.com/in/arti-chaudhari-b998a82a9/)
 
-
+---
 ⭐ **If you found this project helpful, don’t forget to star the repo!**
 
 
