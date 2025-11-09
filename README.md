@@ -4,6 +4,11 @@
 
 An interactive **Power BI dashboard** designed to analyze and visualize **e-commerce sales performance** across various regions, products, and customer segments — providing key business insights using **data visualization, Power Query, and DAX**.
 
+## 🖼️ **Dashboard Preview**
+
+![Dashboard Screenshot](https://github.com/artichaudhari/Ecommerce-sales-performance-dashboard/blob/main/Screenshot%202025-10-12%20224452.png)
+
+
 
 
 ## 🧭 **Purpose**
@@ -93,11 +98,6 @@ Displays the relationship between discounts and profit margins.
 * Applied **data modeling techniques** for accurate relationships between datasets.
 * Learned how to communicate **business insights effectively** through visuals.
 
-
-
-## 🖼️ **Dashboard Preview**
-
-![Dashboard Screenshot](https://github.com/artichaudhari/Ecommerce-sales-performance-dashboard/blob/main/Screenshot%202025-10-12%20224452.png)
 
 
 
